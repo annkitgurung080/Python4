@@ -1,0 +1,11 @@
+name=input("Enter your Name ::")
+email=input("Enter Your Email ::")
+phone=input("Enter Your Phone Number ::")
+address=input("Enter Your Address ::")
+
+obj=open("user1.txt","a")
+obj.write(name)
+obj.write(email)
+obj.write(phone)
+obj.write(address)
+obj.close()

@@ -1,3 +1,4 @@
+no=int(input("Enter number of Students ::"))
 name=input("Enter Name :")
 sub1=float(input("Enter marks in subject 1 ::"))
 sub2=float(input("Enter marks in subject 2 ::"))

@@ -1,0 +1,13 @@
+
+	 EVO STORE 	
+================Bill================
+
+ Name:Ankit Gurung
+ Phone Number:9818609256
+	Product name:iphone
+	Quantity:5
+	Total:1050000
+	Delivery Price:1000
+	Packing Price:1000
+	Tax amount:136500.0
+	Grand Total :1188500.0

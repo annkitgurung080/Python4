@@ -1,0 +1,10 @@
+Name :Ankit
+					 Marks Sheet 					
+1.Subject 1 :	80.0
+2.Subject 2 :	90.0
+3.Subject 3 :	75.0
+4.Subject 4 :	85.0
+5.Subject 5 :	95.0
+      Total :	425.0
+						 Your Percentage :85.0
+ 						 GRADE:: A
